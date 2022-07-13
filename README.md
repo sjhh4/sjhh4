@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sjhh4@hanmail.net
 
 <!---
 sjhh4/sjhh4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
